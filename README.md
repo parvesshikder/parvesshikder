@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently working on [Random Movie Picker App](https://github.com/parvesshikder/random-movie-picker-using-dart-fluter-bloc-cubit-clean-archiecture-api-fp-di)
 
-- 🌱 I’m currently learning **Python,Django,DevOps**
+- 🌱 I’m currently learning **Python, Django, DevOps**
 
 - 👨‍💻 My portfolio is available at [https://parvesshikder.github.io/?page=portfolio](https://parvesshikder.github.io/?page=portfolio)
 
-- 💬 Ask me about **Flutter, React.js, Clean Architecture, BloC/Cubit, Firebase**
+- 💬 Ask me about **Flutter, React.js, BloC/Cubit State Management, Clean Software Architecture, Dependency injection, CI/CD, Firebase**
 
 - 📫 How to reach me **parvesshikderewu.bd@gmail.com**
 
 - ⚡ Fun fact **I hate coffee, so I only drink 3 to 5 cups every day.**
   
-- 📃 View My Resume **PDF Format** at https://parvesshikder.github.io/file/resume_parves_shikder.pdf
+- 📃 Checkout My Resume **PDF** at https://parvesshikder.github.io/file/resume_parves_shikder.pdf
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
