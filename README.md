@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **parvesshikderewu.bd@gmail.com**
 
-- ⚡ Fun fact **I hate coffee ☕, so I only drink 3 to 5 cups a day 😂.**
+- ⚡ Fun fact **I hate coffee ☕👎, so I only drink 3 to 5 cups a day 😂.**
   
 - 📃 Checkout My Resume **PDF** at https://parvesshikder.github.io/file/resume_parves_shikder.pdf
 
