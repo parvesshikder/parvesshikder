@@ -12,6 +12,8 @@
 - 📫 How to reach me **parvesshikderewu.bd@gmail.com**
 
 - ⚡ Fun fact **I hate coffee, so I only drink 3 to 5 cups every day.**
+  
+- 📃 Fun fact **I hate coffee, so I only drink 3 to 5 cups every day.** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
