@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python,Django,DevOps**
 
-- 👨‍💻 All of my projects are available at [https://parvesshikder.github.io/?page=portfolio](https://parvesshikder.github.io/?page=portfolio)
+- 👨‍💻 My portfolio is available at [https://parvesshikder.github.io/?page=portfolio](https://parvesshikder.github.io/?page=portfolio)
 
 - 💬 Ask me about **Flutter, React.js, Clean Architecture, BloC/Cubit, Firebase**
 
