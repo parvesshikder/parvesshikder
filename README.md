@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parves</h1>
-<h3 align="center">From Aspiring Coder to Architect-in-Training - Building the Blueprint for Success!</h3>
+<h3 align="center">Junior Coder with an Aspiring Vision: Becoming a Software Architect!</h3>
 
 - 🔭 I’m currently working on [Random Movie Picker App](https://github.com/parvesshikder/random-movie-picker-using-dart-fluter-bloc-cubit-clean-archiecture-api-fp-di)
 
