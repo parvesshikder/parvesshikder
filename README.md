@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I hate coffee, so I only drink 3 to 5 cups every day.**
   
-- 📃 Download Resume **as PDF Format.** https://parvesshikder.github.io/file/resume_parves_shikder.pdf
+- 📃 View My Resume **as PDF Format.** https://parvesshikder.github.io/file/resume_parves_shikder.pdf
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
