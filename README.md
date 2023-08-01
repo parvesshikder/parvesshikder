@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python,Django,DevOps**
 
-- 👨‍💻 All of my projects are available at [parvesshikder.github.io/?page=portfolio](https://parvesshikder.github.io/?page=portfolio)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://parvesshikder.github.io/?page=portfolio)
 
 - 💬 Ask me about **Flutter, React.js, BloC/Cubit State Management, Clean Software Architecture, Dependency injection, CI/CD, Firebase**
 
@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I hate coffee, so I only drink 3 to 5 cups a day.**
 
-- 📃 Checkout My Resume **PDF** at [Download](https://parvesshikder.github.io/file/resume_parves_shikder.pdf)
+- 📃 Checkout My Resume **PDF** at [Download Resume](https://parvesshikder.github.io/file/resume_parves_shikder.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
