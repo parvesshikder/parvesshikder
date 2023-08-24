@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Random Movie Picker App](https://github.com/parvesshikder/random-movie-picker-using-dart-fluter-bloc-cubit-clean-archiecture-api-fp-di)
 
-- 🌱 I’m currently learning **C# , .Net , DevOps**
+- 🌱 I’m currently learning **C# , ASP.Net , DevOps**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://parvesshikder.github.io/?page=portfolio)
 
