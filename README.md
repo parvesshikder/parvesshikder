@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parvesshikder&label=Profile%20views&color=0e75b6&style=flat" alt="parvesshikder" /> </p>
 
-- 🔭 I’m currently working on [Random Movie Picker App](https://github.com/parvesshikder/random-movie-picker-using-dart-fluter-bloc-cubit-clean-archiecture-api-fp-di)
+- 🔭 I’m currently working on [ByCliq](Releasing Soon)
 
-- 🌱 I’m currently learning **C# , ASP.Net , DevOps**
+- 🌱 I’m currently learning **Cybersecurity**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://parvesshikder.github.io/?page=portfolio)
 
