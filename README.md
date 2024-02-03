@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parves</h1>
-<h3 align="center">Junior coder dreaming of becoming a cybersecurity maestro! 💻🔒</h3>
+<h3 align="center">Junior coder on a mission to evolve into a cybersecurity expert 💻🔒</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parvesshikder&label=Profile%20views&color=0e75b6&style=flat" alt="parvesshikder" /> </p>
 
