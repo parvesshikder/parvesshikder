@@ -1,28 +1,105 @@
-<h1 align="center">Hi 👋, I'm Parves</h1>
-<h3 align="center">Junior coder on a mission to evolve into a cybersecurity expert 💻🔒</h3>
+<h1 align="center">Hi 👋, I'm Md Parves Shikder</h1>
+<h3 align="center">Software Engineer | MSc Software Engineering @ University of Tartu | Backend & DevOps Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parvesshikder&label=Profile%20views&color=0e75b6&style=flat" alt="parvesshikder" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=parvesshikder&label=Profile%20views&color=0e75b6&style=flat" alt="parvesshikder" />
+</p>
 
-- 🔭 I’m currently working on [ByCliq](Releasing Soon)
+---
 
-- 🌱 I’m currently learning **Cybersecurity**
+### 👨‍💻 About Me
 
+Software Engineer with experience delivering production-grade mobile applications, currently transitioning into **backend development and DevOps**. Pursuing an **MSc in Software Engineering** at the University of Tartu, with a focus on DevOps, Cloud Computing, and enterprise systems. Actively developing expertise in **Java, Spring Boot**, and modern DevOps practices including **Docker, Kubernetes, and CI/CD** across cloud platforms. Passionate about designing scalable and secure systems.
+
+- 🌍 Based in **Tartu, Estonia**
+- 🎓 **MSc Software Engineering** — University of Tartu (2025–2027)
+- 💼 Previously **Mobile App Developer** at Kaipa LLC & Bycliq Sdn Bhd
+- 🌱 Currently learning **Java, Spring Boot, Kubernetes, and Cloud Computing**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://parvesshikder.github.io/?page=portfolio)
+- 📫 Reach me at **mdparves@ut.ee**
+- 📃 View my resume [here](https://parvesshikder.github.io/file/resume_parves_shikder.pdf)
 
-- 💬 Ask me about **Flutter, React.js, BloC/Cubit State Management, Clean Software Architecture, Dependency injection, CI/CD, Firebase**
+---
 
-- 📫 How to reach me **parvesshikderewu.bd@gmail.com**
+### 🎓 Education
 
-- ⚡ Fun fact **I hate coffee, so I only drink 3 to 5 cups a day.**
+| Degree | Institution | Period |
+|---|---|---|
+| MSc in Software Engineering | University of Tartu, Estonia | Sept 2025 – Aug 2027 |
+| B.S. in Computer Science (GPA: 3.6/4.0) | International Islamic University Malaysia | Feb 2019 – Aug 2023 |
 
-- 📃 Checkout My Resume **PDF** at [My Resume](https://parvesshikder.github.io/file/resume_parves_shikder.pdf)
+**MSc Courses:** Systems Modelling, Requirements Engineering, Agile, DevOps, Cloud Computing, Enterprise System Integration, Software Product Management, Software Security, MLOps, Business Process Mining
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🛠️ Technical Skills
+
+**Languages:** Java · Dart · Go · JavaScript · SQL
+
+**Backend:** Spring Boot · Echo
+
+**Frontend & Mobile:** Flutter · React.js
+
+**DevOps & Cloud:** Docker · Kubernetes · Helm · CI/CD · Prometheus · Grafana
+
+**Databases & Storage:** PostgreSQL · Firebase · MinIO
+
+**Other:** Linux · Git · GitHub · GitLab · Stripe
+
+---
+
+### 💼 Experience
+
+**Mobile App Developer** — Kaipa LLC *(Remote | Nov 2024 – Aug 2025)*
+- Built and launched a cross-platform Flutter ticketing app (iOS App Store) with Stripe payments, Google Maps event discovery, and Apple Wallet integration
+- Implemented a real-time host dashboard with QR code ticket scanning for attendee check-in and live analytics tracking attendance and revenue
+
+**Mobile App Developer** — Bycliq Sdn Bhd *(Kuala Lumpur, Malaysia – Hybrid | Sept 2023 – Sept 2024)*
+- Developed and maintained a Flutter music event ticketing application, focusing on user experience and code quality through rigorous testing and performance optimization
+
+---
+
+### 🏆 Honors & Awards
+
+- 🥇 **Gold Award** — IIDEX 2023 for *Steko Health Checker*
+- 🥉 **Bronze Award** — KICT Final Year Project Showcase
+- 📜 **Dean's List** — 5 semesters
+
+---
+
+### 🌐 Languages
+
+English (B2) · Estonian (A1) · Bangla (Native)
+
+---
+
+### 🤝 Connect with me
+
 <p align="left">
 <a href="https://linkedin.com/in/parvesshikder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parvesshikder" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
+
+### 🧰 Languages and Tools
+
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+  <a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/></a>
+  <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
+</p>
+
+---
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parvesshikder&" alt="parvesshikder" /></p>
