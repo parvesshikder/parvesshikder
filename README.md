@@ -26,7 +26,7 @@ Software Engineer with experience delivering production-grade mobile application
 | Degree | Institution | Period |
 |---|---|---|
 | MSc in Software Engineering | University of Tartu, Estonia | Sept 2025 – Aug 2027 |
-| B.S. in Computer Science (GPA: 3.6/4.0) | International Islamic University Malaysia | Feb 2019 – Aug 2023 |
+| B.S. in Computer Science | International Islamic University Malaysia | Feb 2019 – Aug 2023 |
 
 **MSc Courses:** Systems Modelling, Requirements Engineering, Agile, DevOps, Cloud Computing, Enterprise System Integration, Software Product Management, Software Security, MLOps, Business Process Mining
 
