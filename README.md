@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Parves Shikder</h1>
+<h1 align="center">Hi 👋, I'm Parves</h1>
 <h3 align="center">Software Engineer | MSc Software Engineering @ University of Tartu | Backend & DevOps Enthusiast</h3>
 
 <p align="center">
