@@ -16,8 +16,6 @@ Software Engineer with experience delivering production-grade mobile application
 - 💼 Previously **Mobile App Developer** at Kaipa LLC & Bycliq Sdn Bhd
 - 🌱 Currently learning **Java, Spring Boot, Kubernetes, and Cloud Computing**
 - 📫 Reach me at **mdparves@ut.ee**
-- 📃 View my resume [here](https://parvesshikder.github.io/file/resume_parves_shikder.pdf)
-
 ---
 
 ### 🎓 Education
